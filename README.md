@@ -25,13 +25,4 @@ The script runs on Google Colab and stores the extracted information in JSON for
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/umr-se/id-card-details-extractor
-cd id-card-info-extractor
-
-
-
-
-
-
-
-
-
+cd id-card-info-extracto
