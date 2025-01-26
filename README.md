@@ -27,6 +27,11 @@ The script runs on Google Colab and stores the extracted information in JSON for
 git clone https://github.com/umr-se/id-card-details-extractor
 cd id-card-info-extractor
 
-![card](https://github.com/user-attachments/assets/00af80a4-4947-4cc0-88d0-997fe89c926e)
+
+
+
+
+
+
 
 
