@@ -23,7 +23,7 @@ The script runs on Google Colab and stores the extracted information in JSON for
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/umr-se/Invoice-Text-Extract
+   git clone https://github.com/umr-se/id-card-details-extractor
 ![Screenshot 2025-01-26 180920](https://github.com/user-attachments/assets/62e3a0ef-3306-4245-92c6-d76ce7a6f040)
 ![Screenshot 2025-01-26 181004](https://github.com/user-attachments/assets/5f5de98e-58e6-4624-8455-818020149726)
 
